@@ -1,3 +1,3 @@
-# AmandaBot
+# Just a DiscordBot
 
-My own youtube player for discord channels
+Its a simple discordbot...
